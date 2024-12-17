@@ -1,0 +1,16 @@
+{
+  "name": "simple-ts3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cp": "npx tsc",
+    "dev": "node dist/index"
+  },
+  "author": "Josildo Silva",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
